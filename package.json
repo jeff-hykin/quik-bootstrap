@@ -1,0 +1,24 @@
+{
+    "name": "quik-bootstrap",
+    "version": "1.0.0",
+    "description": "a quick-server plugin for adding bootstrap css and js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeff-hykin/quik-bootstrap.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeff-hykin/quik-bootstrap/issues"
+    },
+    "homepage": "https://github.com/jeff-hykin/quik-bootstrap#readme",
+    "dependencies": {
+        "bootstrap": "^4.1.3",
+        "jquery": "3.3.1"
+    }
+}
