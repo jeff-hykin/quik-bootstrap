@@ -1,6 +1,6 @@
 {
     "name": "quik-bootstrap",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "a quick-server plugin for adding bootstrap css and js",
     "main": "index.js",
     "scripts": {
